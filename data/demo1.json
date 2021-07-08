@@ -1,0 +1,5060 @@
+[
+  {
+    "type": "exit",
+    "scene": "Page_MYTBSettingVC",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543038150
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543038291
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543039850,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543042483,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543043190,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543043560,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543046561,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543046562,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 1,
+    "state": 2,
+    "timeStamp": 1616543047637,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 2,
+    "timeStamp": 1616543047641,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543049249,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543051629,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543051637,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 1,
+    "state": 1,
+    "timeStamp": 1616543052707,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 1,
+    "timeStamp": 1616543052712,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543053974
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543053974,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543054761,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543060091,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543060093
+  },
+  {
+    "name": "",
+    "user": 1,
+    "state": 0,
+    "timeStamp": 1616543060093,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/ald_strategy_122650",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543060101
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MYTBSettingVC",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543080358
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543081167
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543106377
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616543111442
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562340672
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562356565
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MYTBSettingVC",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562361293
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562361502
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562361515
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 1,
+    "timeStamp": 1616562453534
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699862069,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699862084,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699862095,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 2,
+    "timeStamp": 1614699862107,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699863154,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699863170,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699863179,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1614699863192,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 2,
+    "timeStamp": 1614699863202,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1615976031778,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1615976035458,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1615977325683,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1615977325713,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616048309265,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616048362361,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616048364194,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049121265,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049122649,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049389920,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049392956,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049424257,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616049436601,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616093221688,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616093226328,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616093519892,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616093519983,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616130713297,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616130716382,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616131092300,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616131099103,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616131323494,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616131324012,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616220082745,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616220085405,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616220446705,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616220447717,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616304097664,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616304102297,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616304434059,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309357838,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309361618,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309375445,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309379838,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309477262,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309499892,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309500199,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309500355,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309730111,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616309737800,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616336378218,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616337241857,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616337242912,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391273582,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391314991,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391631929,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391634655,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391960587,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616391961878,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616488427804,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616488431017,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616506666208,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616506670296,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/dinamic\\/ju-h5\\/tqgdetail.html",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616506819851
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616507806071
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616507806071,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 2,
+    "state": 0,
+    "timeStamp": 1616507807345,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616507807417
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616507825996
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616561276052
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616561473636
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderDetail",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616561477406
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616561482956
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 2,
+    "timeStamp": 1616561509668
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413695179,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413701535,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413726878,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413767325,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413767953,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 3,
+    "state": 2,
+    "timeStamp": 1616413773856,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 2,
+    "timeStamp": 1616413773865,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 3,
+    "state": 2,
+    "timeStamp": 1616413774888,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 2,
+    "timeStamp": 1616413774894,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413781012,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 3,
+    "state": 0,
+    "timeStamp": 1616413782683,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562555726
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562572383
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562610683
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562742251
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562769213
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562784849
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562790901
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562807884
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562835727
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562848729
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562857188
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 3,
+    "timeStamp": 1616562874813
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1615303752914,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1615303754246,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1615303754933,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1615303755945,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489044725,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489046302,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489046917,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616489048748,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489051371,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489053789,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489055359,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616489056132,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616490645765,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616490650916,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616490657854,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616490717082,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616490718212,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616490725491,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616490726856,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616491496894,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616491513587,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616493309569,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616493310548,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551159446,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551165688,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616551180535,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616551218940,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616551222028,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551223624,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551225078,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551390733,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551394183,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 1,
+    "timeStamp": 1616551403215,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616551411354,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 4,
+    "timeStamp": 1616551435643
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551435643,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616551438007,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616561894868,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616561898441,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 2,
+    "timeStamp": 1616561904593,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 4,
+    "timeStamp": 1616562036836
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616562036836,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616562037757,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 4,
+    "state": 0,
+    "timeStamp": 1616562038118,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642651676,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642653891,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642665065,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642685101,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642686240,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642689146,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 2,
+    "timeStamp": 1615642690520,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616294949110,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616294950903,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376060800,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376107577,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376117816,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376152377,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376532167,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616376534221,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616464538360,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616464600475,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616464602071,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616464605996,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 5,
+    "state": 0,
+    "timeStamp": 1616464611697,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616564670512
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616564672037
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ConfirmOrder",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616564787016
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616565109874
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616565122564
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 5,
+    "timeStamp": 1616565150123
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 6,
+    "state": 0,
+    "timeStamp": 1614301911025,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 6,
+    "state": 0,
+    "timeStamp": 1614301920622,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 6,
+    "state": 0,
+    "timeStamp": 1614301921128,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 6,
+    "state": 0,
+    "timeStamp": 1614301955016,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 6,
+    "state": 2,
+    "timeStamp": 1614301957661,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 6,
+    "state": 2,
+    "timeStamp": 1614301957670,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 6,
+    "state": 1,
+    "timeStamp": 1614301959172,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 6,
+    "state": 1,
+    "timeStamp": 1614301959173,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 6,
+    "timeStamp": 1616562567580
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520225343,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520234712,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520235041,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520237148,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520237699,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520237709,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 7,
+    "state": 2,
+    "timeStamp": 1616520238656,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 2,
+    "timeStamp": 1616520238662,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520241980,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 7,
+    "state": 0,
+    "timeStamp": 1616520243999,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563849833
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563858118
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563864592
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563869813
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563878672
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563898674
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563900555
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563902328
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563909631
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563927875
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563930464
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563939414
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563948873
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563961727
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563964356
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563973118
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563987157
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Shop_All_Item",
+    "state": 3,
+    "user": 7,
+    "timeStamp": 1616563995137
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 1,
+    "timeStamp": 1616220710564,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616465556972,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616465597369,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616466896097,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616466917011,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468060506,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468072456,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468084270,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468085874,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468130956,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616468150091,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616549453616,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 8,
+    "state": 0,
+    "timeStamp": 1616549477860,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562072086
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562077235
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562081613
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562093032
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562101815
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562106011
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562109437
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562112922
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562121223
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/ald_strategy_632474",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562266125
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562307999
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/z\\/mit\\/hbqd\\/welfare4",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562491675
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/z\\/mit\\/hbqd\\/welfare4",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562510126
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/z\\/mit\\/hbqd\\/welfare4",
+    "state": 3,
+    "user": 8,
+    "timeStamp": 1616562521361
+  },
+  {
+    "name": "",
+    "user": 9,
+    "state": 2,
+    "timeStamp": 1614865085643,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615726682565,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615726689312,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615726694395,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615726694507,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615986681881,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 9,
+    "state": 0,
+    "timeStamp": 1615986683689,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616562929092
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616562961879
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616562965711
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563001420
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563013877
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563035894
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563162639
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563191506
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563239574
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563278696
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563310317
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 9,
+    "timeStamp": 1616563311906
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1614021563330,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1614021564972,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1614021566029,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 10,
+    "state": 2,
+    "timeStamp": 1614021579014,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 10,
+    "state": 2,
+    "timeStamp": 1614021579015,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1614021582116,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1614021586626,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1615456744229,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 10,
+    "state": 0,
+    "timeStamp": 1615456755092,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 10,
+    "timeStamp": 1616422532243
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 10,
+    "timeStamp": 1616422535333
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 10,
+    "timeStamp": 1616539940365
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 10,
+    "timeStamp": 1616563720012
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 10,
+    "timeStamp": 1616564028027
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479530694,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479538303,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479540350,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479544996,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479549451,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479550895,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479551425,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 11,
+    "state": 2,
+    "timeStamp": 1616479555592,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 2,
+    "timeStamp": 1616479555603,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 1,
+    "timeStamp": 1616479557111,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 11,
+    "state": 1,
+    "timeStamp": 1616479557113,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479567922,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479605838,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479629194,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616479657595,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616483331384,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616498279594,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616561270589,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 11,
+    "state": 0,
+    "timeStamp": 1616561296871,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561718813
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561724112
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561732325
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561736328
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561742834
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561751641
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561757079
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchDoor",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561963846
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 11,
+    "timeStamp": 1616561965007
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349876767,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349883572,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349883855,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349888068,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349888074,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349889254,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349889258,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1615349890380,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349890381,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349890381,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1615349891800,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349891801,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 12,
+    "state": 2,
+    "timeStamp": 1615349891801,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349893714,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349898550,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349936470,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349938011,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349960698,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1615349973277,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1616387355631,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1616387363798,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1616387369387,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 12,
+    "state": 0,
+    "timeStamp": 1616387369771,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616387369810
+  },
+  {
+    "type": "exit",
+    "scene": "Page_PhotoSearchResult",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565240232
+  },
+  {
+    "type": "exit",
+    "scene": "Page_PhotoSearchResult",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565263874
+  },
+  {
+    "type": "exit",
+    "scene": "Page_PhotoSearchTake",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565265819
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565266936
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchDoor",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565345901
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565435334
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565505290
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565518448
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 12,
+    "timeStamp": 1616565563357
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326075613,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326090871,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326131399,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326133411,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 13,
+    "state": 2,
+    "timeStamp": 1616326140285,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 2,
+    "timeStamp": 1616326140292,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 2,
+    "timeStamp": 1616326141098,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 13,
+    "state": 2,
+    "timeStamp": 1616326141099,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 13,
+    "state": 1,
+    "timeStamp": 1616326142646,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616326142648,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 1,
+    "timeStamp": 1616326142649,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326143864,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326157482,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 13,
+    "state": 0,
+    "timeStamp": 1616326160723,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561000475
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561290756
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561298264
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561342736
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561350987
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561529612
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561568214
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561625220
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561639754
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561646407
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561678971
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561691592
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561701443
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616561751614
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 13,
+    "timeStamp": 1616562124006
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470133273,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470162756,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470168567,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470185431,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470189359,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470217940,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470218119,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470218311,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470229290,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470234784,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 2,
+    "timeStamp": 1616470239742,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 2,
+    "timeStamp": 1616470241882,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 2,
+    "timeStamp": 1616470243084,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 2,
+    "timeStamp": 1616470246499,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470251590,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470296313,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616470316983,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616481823368,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 14,
+    "state": 0,
+    "timeStamp": 1616481836869,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_DetailComments",
+    "state": 3,
+    "user": 14,
+    "timeStamp": 1616565261730
+  },
+  {
+    "type": "exit",
+    "scene": "Page_PicView",
+    "state": 3,
+    "user": 14,
+    "timeStamp": 1616565272559
+  },
+  {
+    "type": "exit",
+    "scene": "Page_PicView",
+    "state": 3,
+    "user": 14,
+    "timeStamp": 1616565321209
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 1,
+    "timeStamp": 1615677959693,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 2,
+    "timeStamp": 1615699555033,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 0,
+    "timeStamp": 1616554963657,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 0,
+    "timeStamp": 1616554968720,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 0,
+    "timeStamp": 1616554976521,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 15,
+    "state": 0,
+    "timeStamp": 1616554976919,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562902793
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562908041
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ConfirmOrder",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562932079
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ConfirmOrder",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562934182
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ShoppingCart",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562953739
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ShoppingCart",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562954490
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562958773
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562964857
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616562974012
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616563014179
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616563026859
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616563056800
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616563070904
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 15,
+    "timeStamp": 1616563094813
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616547922013
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616548018163
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556220680
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556236334
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MsgCenter",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556253771
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MsgCenter",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556258262
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556260102
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556261720
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556272808
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SubGroupchatDialog",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556332327
+  },
+  {
+    "type": "exit",
+    "scene": "Page_CNMailDetail",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616556346027
+  },
+  {
+    "name": "",
+    "user": 16,
+    "state": 0,
+    "timeStamp": 1616563803899,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 16,
+    "state": 0,
+    "timeStamp": 1616563809429,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 16,
+    "state": 0,
+    "timeStamp": 1616563810162,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 16,
+    "state": 1,
+    "timeStamp": 1616563815592,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_MyTaobao",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616563828426
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616563828953
+  },
+  {
+    "type": "exit",
+    "scene": "taobaolive",
+    "state": 3,
+    "user": 16,
+    "timeStamp": 1616563843932
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 2,
+    "timeStamp": 1615852415466,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 1,
+    "timeStamp": 1615852416251,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 2,
+    "timeStamp": 1615939201744,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 1,
+    "timeStamp": 1615939202418,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 2,
+    "timeStamp": 1615939203962,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 1,
+    "timeStamp": 1615939204825,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 0,
+    "timeStamp": 1616383078109,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 0,
+    "timeStamp": 1616383079019,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 2,
+    "timeStamp": 1616458565861,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 17,
+    "state": 1,
+    "timeStamp": 1616458566875,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 17,
+    "timeStamp": 1616549590982
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 17,
+    "timeStamp": 1616564195655
+  },
+  {
+    "type": "exit",
+    "scene": "Page_New_SKU",
+    "state": 3,
+    "user": 17,
+    "timeStamp": 1616564233105
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 17,
+    "timeStamp": 1616564259837
+  },
+  {
+    "name": "",
+    "user": 18,
+    "state": 0,
+    "timeStamp": 1616277438852,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 18,
+    "state": 0,
+    "timeStamp": 1616277458994,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 18,
+    "state": 2,
+    "timeStamp": 1616277470947,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 18,
+    "state": 2,
+    "timeStamp": 1616277470947,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 18,
+    "state": 0,
+    "timeStamp": 1616277478966,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 18,
+    "state": 2,
+    "timeStamp": 1616277493977,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 18,
+    "state": 2,
+    "timeStamp": 1616277493978,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559405483
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Chat",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559420994
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Chat",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559453218
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559480977
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Chat",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559485464
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559609200
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559614531
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559626275
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559651467
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559667911
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616559697013
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616560426139
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616560454206
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 18,
+    "timeStamp": 1616560547337
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734529311,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734532740,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734544017,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734548698,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734557603,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734558674,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734572572,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 2,
+    "timeStamp": 1615734574852,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561369236,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561377600,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561377844,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561377870,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561699200,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 19,
+    "state": 0,
+    "timeStamp": 1616561700311,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563538698
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563590571
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563615196
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563632280
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ShoppingCart",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563677439
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ShoppingCart",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563692121
+  },
+  {
+    "type": "exit",
+    "scene": "Page_ShoppingCart",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563724918
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 19,
+    "timeStamp": 1616563958546
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537906207,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537912866,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537915758,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537915903,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537920825,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537960771,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616537985296,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616538077130,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 20,
+    "state": 0,
+    "timeStamp": 1616538078398,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538085869,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538085884,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538087048,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538087061,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538088224,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538088225,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538090096,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538090112,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538092287,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538092304,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616538093581,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538093596,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538093598,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538095153,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616538095162,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538095164,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538097838,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538098644,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538099723,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538100869,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616538100885,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 20,
+    "state": 2,
+    "timeStamp": 1616538100901,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616562936388
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616563025877
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616563189402
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616563223132
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 20,
+    "timeStamp": 1616563289918
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616027497682,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616027503493,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616123087253,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616124649936,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616283628232,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616284068311,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616393073217,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 0,
+    "timeStamp": 1616464286713,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 0,
+    "timeStamp": 1616464289935,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 0,
+    "timeStamp": 1616464344131,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 0,
+    "timeStamp": 1616464348033,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 21,
+    "state": 2,
+    "timeStamp": 1616558609672,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 21,
+    "timeStamp": 1616563753021
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616555954887,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616555975531,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616555987730,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556011185,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616556018414
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556018414,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556022836,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616556028692
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556028692,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556057220,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616556063706
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556063706,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556068020,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616556074603
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556074603,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616556080678,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 0,
+    "timeStamp": 1616557131403,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557134196,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557134480,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557134855,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616557134856,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557134858,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557135827,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557135829,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557136712,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616557136713,
+    "type": "exit",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557136714,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557137721,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 22,
+    "state": 2,
+    "timeStamp": 1616557137722,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616562731897
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563419665
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchDoor",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563420366
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563421093
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563649888
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563717331
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563724422
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563920392
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563952719
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563954184
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616563978169
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616564017092
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 22,
+    "timeStamp": 1616564018042
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 2,
+    "timeStamp": 1616561730070,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 2,
+    "timeStamp": 1616561874171,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 2,
+    "timeStamp": 1616561875383,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 0,
+    "timeStamp": 1616562473027,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 0,
+    "timeStamp": 1616562488161,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 0,
+    "timeStamp": 1616562509709,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 0,
+    "timeStamp": 1616562513249,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1583\\/wupr",
+    "state": 3,
+    "user": 23,
+    "timeStamp": 1616562738417
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1583\\/wupr",
+    "state": 3,
+    "user": 23,
+    "timeStamp": 1616562757641
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1583\\/wupr",
+    "state": 3,
+    "user": 23,
+    "timeStamp": 1616562768867
+  },
+  {
+    "name": "",
+    "user": 23,
+    "state": 2,
+    "timeStamp": 1616562782968,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 23,
+    "timeStamp": 1616562920474
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 23,
+    "timeStamp": 1616563238823
+  },
+  {
+    "name": "",
+    "user": 24,
+    "state": 2,
+    "timeStamp": 1616207159211,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 24,
+    "state": 0,
+    "timeStamp": 1616420844472,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 24,
+    "state": 0,
+    "timeStamp": 1616421131207,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 24,
+    "state": 0,
+    "timeStamp": 1616536934351,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 24,
+    "state": 0,
+    "timeStamp": 1616536954799,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563608971
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Home",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563626360
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563654659
+  },
+  {
+    "type": "exit",
+    "scene": "Page_SearchItemList",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563656305
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563661318
+  },
+  {
+    "type": "exit",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1112\\/wupr",
+    "state": 3,
+    "user": 24,
+    "timeStamp": 1616563665511
+  },
+  {
+    "name": "",
+    "user": 25,
+    "state": 0,
+    "timeStamp": 1616070947566,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 25,
+    "state": 0,
+    "timeStamp": 1616070952903,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 25,
+    "state": 0,
+    "timeStamp": 1616070954244,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 25,
+    "state": 0,
+    "timeStamp": 1616070954249,
+    "type": "tap",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561503773
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561707673
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561715398
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561718864
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561730515
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561746140
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561811985
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561835513
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561840201
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561853019
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561861963
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561913997
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 25,
+    "timeStamp": 1616561947145
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 26,
+    "state": 0,
+    "timeStamp": 1616318800771,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 26,
+    "state": 0,
+    "timeStamp": 1616318804673,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 26,
+    "state": 0,
+    "timeStamp": 1616318808312,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr",
+    "user": 26,
+    "state": 0,
+    "timeStamp": 1616318810764,
+    "type": "tap",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "indexScroll",
+    "user": 26,
+    "state": 2,
+    "timeStamp": 1616318811057,
+    "type": "ScrollDown",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "",
+    "user": 26,
+    "state": 2,
+    "timeStamp": 1616318811058,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 26,
+    "state": 1,
+    "timeStamp": 1616318813579,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "indexScroll",
+    "user": 26,
+    "state": 1,
+    "timeStamp": 1616318813579,
+    "type": "ScrollUp",
+    "scene": "https:\\/\\/pages.tmall.com\\/wow\\/a\\/act\\/ju\\/dailygroup\\/1527\\/wupr"
+  },
+  {
+    "name": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html",
+    "user": 26,
+    "state": 0,
+    "timeStamp": 1616318817733,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 26,
+    "timeStamp": 1616502303530
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 26,
+    "timeStamp": 1616502311511
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderList",
+    "state": 3,
+    "user": 26,
+    "timeStamp": 1616502324669
+  },
+  {
+    "type": "exit",
+    "scene": "Page_Detail",
+    "state": 3,
+    "user": 26,
+    "timeStamp": 1616562633773
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516077691,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516089096,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516140677,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516144709,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 2,
+    "timeStamp": 1616516194447,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 2,
+    "timeStamp": 1616516195810,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 1,
+    "timeStamp": 1616516205665,
+    "type": "ScrollUp",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 2,
+    "timeStamp": 1616516207738,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 2,
+    "timeStamp": 1616516210329,
+    "type": "ScrollDown",
+    "scene": "jingmiz_ju_item"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516212807,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516215268,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516246792,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "name": "",
+    "user": 27,
+    "state": 0,
+    "timeStamp": 1616516273035,
+    "type": "tap",
+    "scene": "https:\\/\\/market.m.taobao.com\\/app\\/tmall-def\\/juhuasuan-d2c\\/web\\/index.html"
+  },
+  {
+    "type": "exit",
+    "scene": "Page_DetailComments",
+    "state": 3,
+    "user": 27,
+    "timeStamp": 1616560284565
+  },
+  {
+    "type": "exit",
+    "scene": "Page_OrderDetail",
+    "state": 3,
+    "user": 27,
+    "timeStamp": 1616560434371
+  }
+]
